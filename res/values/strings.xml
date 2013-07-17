@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sismologia USP</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_label_bsb">Boletim Sísmico</string>
+    <string name="tab_label_world">Sismos Mundiais</string>
+    <string name="url_bsb">http://www.moho.iag.usp.br/portal/m_bsb</string>
+    <string name="url_world">http://www.moho.iag.usp.br/portal/m_world</string>
+    
+</resources>
